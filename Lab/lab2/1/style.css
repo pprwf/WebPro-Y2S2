@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 2140px;
+    width: 100%;
+    background-color: #bbbbbb;
+}
+
+.box {
+    background-color: white;
+    height: 500px;
+    width: 75%;
+}
+
+.timeline {
+    padding-top: 10px;
+    padding-left: 5%;
+}
+
+.desc {
+    padding-left: 5%;
+}
+
+body {
+    font-family: "Open Sans";
+}
+
+li {
+    list-style-type: none;
+}
+
+h4 {
+    font-weight: 900;
+}
