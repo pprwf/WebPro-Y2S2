@@ -1,0 +1,51 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 500px;
+}
+
+td {
+    padding-left: 10px;
+}
+
+div {
+    width: 1000px;
+}
+
+.bar {
+    height: 20px;
+    width: 800px;
+    margin-left: 5%;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.first {
+    background-color:aquamarine;
+    width: 90%;
+}
+
+.second {
+    color: white;
+    background-color: darkcyan;
+    width: 40%;
+}
+
+.third {
+    background-color: skyblue;
+    width: 10%;
+}
+
+.fourth {
+    color: white;
+    background-color: slateblue;
+    width: 70%;
+}
+
+.fifth {
+    background-color: salmon;
+    width: 50%;
+}
